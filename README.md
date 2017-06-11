@@ -4,7 +4,7 @@ This is a simple Pytyon script that will backup your solr cloud cluster instance
 ## Requirements
 a) You need to ensure that you have configured the ReplicationHandler within the Solrconfig.xml before this will work, as it utilises the Solr backup command.
 
-b) Python needs to be installed (only tested against 7.1 so far)
+b) Python needs to be installed (only tested against 3.6 so far)
 
 c) Need to install: 
 
